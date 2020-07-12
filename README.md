@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Youssef guba
 
-- 🤹 Flutter Developer, Founder of Google Developer Students Club,  Self-taught Programmer.
+- 🐳 Flutter Developer ,  < Founder of Google Developer Students Club > , 💻 Self-taught Programmer.
 - 👓 Give a courses about Mobile Application Development. 
 - 🌱 I’m currently learning more about Software Engineering.
 - 🔮 My dream is to be one of " Google Developer Experts " around the world.
