@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Youssef guba
 
-<!--
-**Youssefguba/Youssefguba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤹 Flutter Developer, Founder of Google Developer Students Club,  Self-taught Programmer.
+- 👓 Give a courses about Mobile Application Development. 
+- 🌱 I’m currently learning more about Software Engineering.
+- 🔮 My dream is to be one of " Google Developer Experts " around the world.
 
-Here are some ideas to get you started:
+# 📫 You can reach me on :
+- [Facebook](https://www.facebook.com/youssefguba) 
+- [LinkedIn](https://www.linkedin.com/in/youssefguba)
+- [Twitter](https://twitter.com/youssef_guba)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💎 Fav Quotes: "Think twice, code once", "Life is about Solving Problems".
