@@ -6,12 +6,12 @@
 - 🔮 My dream is to be one of " Google Developer Experts " around the world.
 - 🤖 You can call me " Youssef Guba " or "Guba" cuz I love this nickname 😁
 
-# 📫 You can reach me on :
+### 📫 You can reach me on :
 - [Facebook](https://www.facebook.com/youssefguba) 
 - [LinkedIn](https://www.linkedin.com/in/youssefguba)
 - [Twitter](https://twitter.com/youssef_guba)
 
 
-# 💎 Fav Quotes: 
+### 💎 Fav Quotes: 
 - "Think twice, code once". 
 - "Life is about Solving Problems".
