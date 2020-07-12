@@ -11,4 +11,6 @@
 - [Twitter](https://twitter.com/youssef_guba)
 
 
-# 💎 Fav Quotes: ( "Think twice, code once" - "Life is about Solving Problems" )
+# 💎 Fav Quotes: 
+- "Think twice, code once". 
+- "Life is about Solving Problems".
