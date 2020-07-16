@@ -18,7 +18,7 @@
 Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt, Currently working as a Mobile app developer  [@JMSKEF](https://jmskef.online/) ;
 
 - 🐳 Flutter Developer , 
-- < Founder of Google Developer Students Club  🐱‍🏍 > 
+- 🐱‍🏍 Founder of Google Developer Students Club ,
 - 💻 Self-taught Programmer.
 - 👓 Give a courses about Mobile Application Development. 
 - 🌱 Former Team Leader @Microsoft Student Partner
