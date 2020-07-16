@@ -21,7 +21,7 @@ Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt, Currently working as
 - 🐱‍🏍 Founder of Google Developer Students Club ,
 - 💻 Self-taught Programmer.
 - 👓 Give a courses about Mobile Application Development. 
-- 🌱 Former Team Leader @Microsoft Student Partner
+- 🌱 Former Team Leader @ Microsoft Student Partner
 - 🔮 My dream is to be one of " Google Developer Experts " around the world.
 - 📫 You can reach me on : Youssefguba6@gmail.com
 
