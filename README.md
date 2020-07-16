@@ -10,7 +10,7 @@
   <img align="left" alt="Youssef Guba's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.facebook.com/youssefguba">
-  <img align="left" alt="Youssef Guba's Facebook" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Youssef Guba's Facebook" width="22px" backgroundColor="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <br />
