@@ -1,4 +1,9 @@
 ### Hi there 👋🏻 I'm Youssef AHmed (Guba)
+[![Twitter Badge](https://img.shields.io/badge/@Youssefguba-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/youssef_guba)
+[![Linkedin Badge](https://img.shields.io/badge/Youssef Ahmed-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefguba/)
+[![Facebook Badge](https://img.shields.io/badge/Youssef Guba-30302f?style=flat&logo=android)](https://www.facebook.com/youssefguba)
+[![Gmail Badge](https://img.shields.io/badge/youssef9saeed@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:youssef9saeed@gmail.com)
+[![StackOverflow Badge](https://img.shields.io/badge/Youssefguba-30302f?style=flat&logo=Gmail&logoColor=red)](https://stackoverflow.com/users/8526853/youssef-guba)
 
 <a href="https://twitter.com/youssef_guba">
   <img align="left" alt="Youssef Guba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
