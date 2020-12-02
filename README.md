@@ -6,8 +6,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Youssefguba-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8526853/youssef-guba)
 
 
-Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt, Currently working as a Mobile app developer  @JMSKEF;
-
+Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt.
 - 🐳 Flutter Developer , 
 - 🐱‍🏍 Founder of Google Developer Students Club ,
 - 💻 Self-taught Programmer.
