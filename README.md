@@ -26,3 +26,15 @@ Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt.
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></img>
+
+**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+
+<a href="https://github.com/Youssefguba/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssefguba&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/Youssefguba/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefguba&layout=compact&theme=radical&hide_border=false" />
+</a>
+  
+<!--
+**Youssefguba/Youssefguba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
