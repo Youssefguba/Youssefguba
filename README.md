@@ -1,4 +1,6 @@
 ### Hi there 👋🏻 I'm Youssef Guba
+![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Exp-5+yrs-red)
+
 [![Twitter Badge](https://img.shields.io/badge/@Youssefguba-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/youssef_guba)
 [![Linkedin Badge](https://img.shields.io/badge/YoussefAhmed-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefguba/)
 [![Facebook Badge](https://img.shields.io/badge/YoussefGuba-30302f?style=flat&logo=facebook)](https://www.facebook.com/youssefguba)
