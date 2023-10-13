@@ -28,6 +28,7 @@ Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt.
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></img>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=youssefguba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -42,3 +43,4 @@ Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt.
   
 <!--
 **Youssefguba/Youssefguba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
