@@ -13,7 +13,7 @@ The other half is **people** — I've mentored and trained **500+ developers**, 
 ## 🚀 What I Do
 
 - 📱 **Senior Flutter Developer** at [Abwaab](https://abwaab.me) — EdTech platform with 10M+ downloads
-- 🎓 **Flutter Instructor** at eyouth & Almadrasa — 300+ students mentored
+- 🎓 **Flutter Instructor** at Eyouth & Almadrasa — 500+ students mentored
 - 🤝 **1:1 Mentor** — [Book a consultation](https://almdrasa.com/consultations/youssef-guba)
 - 🎤 **Speaker** — 40+ public talks, TV interviews, and podcasts
 
