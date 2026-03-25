@@ -1,46 +1,76 @@
-### Hi there 👋🏻 I'm Youssef Guba
-![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Exp-7+yrs-red)
+# Hi, I'm Youssef Guba 👋
 
-[![Twitter Badge](https://img.shields.io/badge/@Youssefguba-30302f?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/youssef_guba)
-[![Linkedin Badge](https://img.shields.io/badge/YoussefAhmed-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefguba/)
-[![Facebook Badge](https://img.shields.io/badge/YoussefGuba-30302f?style=flat&logo=facebook)](https://www.facebook.com/youssefguba)
-[![Gmail Badge](https://img.shields.io/badge/youssefguba@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:youssefguba@gmail.com)
-[![StackOverflow Badge](https://img.shields.io/badge/Youssefguba-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8526853/youssef-guba)
+**Senior Flutter Developer & Tech Educator**
 
+I was the kid who couldn't stop asking *"how does this actually work?"* That curiosity never left — it just turned into a career.
 
-Hi, I'm Youssef Guba, Mobile App Developer 🚀 from Egypt.
-- 🐳 Senior Flutter Developer , 
-- 🐱‍🏍 Founder of Google Developer Students Club ,
-- 💻 Self-taught Programmer.
-- 👓 Give a courses about Mobile Application Development. 
-- 🌱 Former Team Leader @ Microsoft Student Partner
-- 📫 You can reach me on : youssefguba@gmail.com
+Over **6+ years**, I've gone from tinkering with code to architecting mobile products used by hundreds of thousands across the MENA region. But building apps is only half the story.
 
-### 💎 Fav Quotes: 
-- "Think twice, code once". 
-- "Life is about Solving Problems".
+The other half is **people** — I've mentored and trained **500+ developers**, helping them think like engineers, grow their confidence, and land where they want to be.
 
-### 👨🏻‍💻 Language and tools: 
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></img>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></img>
+---
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=youssefguba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 What I Do
 
+- 📱 **Senior Flutter Developer** at [Abwaab](https://abwaab.me) — EdTech platform with 10M+ downloads
+- 🎓 **Flutter Instructor** at eyouth & Almadrasa — 300+ students mentored
+- 🤝 **1:1 Mentor** — [Book a consultation](https://almdrasa.com/consultations/youssef-guba)
+- 🎤 **Speaker** — 40+ public talks, TV interviews, and podcasts
 
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+---
 
-<a href="https://github.com/Youssefguba/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssefguba&count_private=true&show_icons=true&theme=radical&hide_border=false" />
-</a> 
-<a href="https://github.com/Youssefguba/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefguba&layout=compact&theme=radical&hide_border=false" />
-</a>
-  
-<!--
-**Youssefguba/Youssefguba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Flutter · Dart · Firebase · Clean Architecture · CI/CD · Stripe · iOS · Android**
+
+---
+
+## 📊 Impact
+
+| | |
+|---|---|
+| 📱 Apps shipped | 5+ |
+| 👨‍💻 Developers mentored | 500+ |
+| 🎤 Talks delivered | 40+ |
+| 🌍 Social following | 50,000+ |
+| 🏢 Companies worked with | 6+ |
+
+---
+
+## 🌟 Featured Projects
+
+- **[Abwaab](https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app)** — EdTech platform · 10M+ downloads · ⭐ 4.3
+- **[Muslim App](https://play.google.com/store/apps/details?id=com.muslim.app.v1)** — All-in-one Islamic reference app · ⭐ 4.9
+
+---
+
+## 📚 Courses & Content
+
+- 🎬 [Basics Dart Language (YouTube)](https://www.youtube.com/@youssefguba) — 50,000+ views
+- 📖 [Dart Fundamentals — Almadrasa](https://almdrasa.com/tracks/mobile-development/courses/dart-fundamentals)
+- 📖 [Dart Deep Dive Advanced — Almadrasa](https://almdrasa.com/tracks/mobile-development/courses/dart-deep-dive)
+- 🎓 Flutter Development Diploma — Eyouth (Soon)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 Founded **GDG on Campus Al-Azhar** — recognized as **Best Chapter in MENA Region**
+- 🏅 Google Developers recognition & software leadership award recipient
+- 📺 Featured on Sada El Balad, Al-Hayah Channels, and more..
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefguba/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@youssefguba)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/youssef_guba)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@youssefguba)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://youssefguba.me)
