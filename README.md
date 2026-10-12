@@ -35,8 +35,8 @@ The other half is **people** — I've mentored and trained **500+ developers**, 
 
 | | |
 |---|---|
-| 📱 Apps shipped | 5+ |
-| 👨‍💻 Developers mentored | 500+ |
+| 📱 Apps built | 25 |
+| 👨‍💻 Developers trained | 1000+ |
 | 🎤 Talks delivered | 40+ |
 | 🌍 Social following | 50,000+ |
 | 🏢 Companies worked with | 6+ |
